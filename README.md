@@ -1,2 +1,2 @@
 # git-practice
-This is my git test repository.
+This is my git test (repository).
